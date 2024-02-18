@@ -1,1 +1,1 @@
-# test.repo
+# AD path
